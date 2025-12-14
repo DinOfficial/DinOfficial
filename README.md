@@ -42,7 +42,8 @@ I enjoy working with real-world projects and continuously improving my skills.
 ---
 
 ## 📫 Connect With Me
-- GitHub: [https://github.com/your-username](https://github.com/your-username)
+- GitHub: https://github.com/DinOfficial
+- Linkedin: https://www.linkedin.com/in/sh-din-islam-bhuiyan/
 
 ---
 
