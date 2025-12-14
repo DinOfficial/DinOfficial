@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Din Islam
 
-<!--
-**DinOfficial/DinOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Flutter Developer** | 📱 Mobile App Enthusiast  
 
-Here are some ideas to get you started:
+I’m a passionate Flutter developer who loves building clean, scalable, and user-friendly mobile applications.  
+I enjoy working with real-world projects and continuously improving my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+- 💙 Flutter & Dart Developer  
+- 🔥 Experience with Firebase Authentication & Firestore  
+- 🌐 Working with REST APIs  
+- 📦 State Management (Provider / basics of advanced patterns)  
+- 📱 Android & iOS App Development  
+- 🌱 Currently learning advanced API integration & app architecture  
+
+---
+
+## 🛠️ Tech Stack
+- **Language:** Dart  
+- **Framework:** Flutter  
+- **Backend / Services:** Firebase, REST APIs  
+- **Tools:** Git, GitHub, Android Studio, VS Code  
+
+---
+
+## 📂 Projects
+- 📰 **News App** – API-based dynamic news application  
+- 🌦️ **Weather App** – Real-time weather using API  
+- 🧪 **Tesk Management App** – Authentication & role-based features  
+
+*(More projects coming soon…)* 🚀
+
+---
+
+## 🎯 Goals
+- Build production-ready Flutter applications  
+- Improve app performance & architecture  
+- Work on e-commerce & booking-type apps  
+
+---
+
+## 📫 Connect With Me
+- GitHub: [https://github.com/your-username](https://github.com/your-username)
+
+---
+
+⭐ If you like my work, consider giving a star to my repositories!
