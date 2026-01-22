@@ -23,7 +23,7 @@ I enjoy transforming real-world business ideas into elegant digital solutions an
 * **Language:** Dart
 * **Framework:** Flutter
 * **Backend / Services:** Firebase (Auth, Firestore), REST APIs
-* **State Management:** Provider
+* **State Management:** Provider, GetX
 * **Tools:** Git, GitHub, Android Studio, VS Code
 
 ---
@@ -97,6 +97,8 @@ I enjoy transforming real-world business ideas into elegant digital solutions an
 
 📦 State Management
 ![Provider](https://img.shields.io/badge/Provider-5C2D91?style=for-the-badge)
+![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge)
+
 
 
 
