@@ -79,8 +79,6 @@ I enjoy transforming real-world business ideas into elegant digital solutions an
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DinOfficial&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=DinOfficial&theme=tokyonight)
-
 
 
 🛡️ Tech Badges
