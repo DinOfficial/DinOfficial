@@ -10,10 +10,10 @@ I enjoy transforming real-world business ideas into elegant digital solutions an
 ## 🧑‍💻 About Me
 
 * 💙 Flutter & Dart enthusiast with hands-on project experience
-* 🔐 Firebase Authentication & Firestore integration
+* 🔐 Firebase Authentication & Firestore integration || Supabase Authentication & Database
 * 🌐 REST API integration & data handling
-* 📦 State Management using **Provider** (with growing experience in advanced patterns)
-* 📱 Cross-platform development (Android, Web & Windows)
+* 📦 State Management using **Provider & GetX** (with growing experience in advanced patterns)
+* 📱 Cross-platform development (Android, IOS, Web & Windows)
 * 🌱 Currently learning **advanced API integration, clean architecture & scalable app design**
 
 ---
@@ -22,7 +22,7 @@ I enjoy transforming real-world business ideas into elegant digital solutions an
 
 * **Language:** Dart
 * **Framework:** Flutter
-* **Backend / Services:** Firebase (Auth, Firestore), REST APIs
+* **Backend / Services:** Firebase (Auth, Firestore), REST APIs, Supabase, Shared Preferences, Sqflite
 * **State Management:** Provider, GetX
 * **Tools:** Git, GitHub, Android Studio, VS Code
 
@@ -91,7 +91,12 @@ I enjoy transforming real-world business ideas into elegant digital solutions an
 
 🔥 Backend & Services
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-0088CC?style=for-the-badge)
+
+![Shared Preferences](https://img.shields.io/badge/Shared_Preferences-4CAF50?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/Sqflite-003B57?style=for-the-badge)
+
 
 
 
